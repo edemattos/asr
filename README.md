@@ -2,7 +2,7 @@
 
 # Info
 
-This repo contains the labs for the spring 2021 Automatic Speech Recognition course of the University of Edinburgh. The labs make use of Python, Jupyter notebooks and OpenFST.
+This repo contains the labs for the spring 2021 Automatic Speech Recognition course of the University of Edinburgh. The labs make use of Python, Jupyter notebooks and OpenFST. The labs will be uploaded periodically; if you are not familiar with git, just manually download the files you're missing or you might lose your work.
 
 
 # Setup for UoE students
