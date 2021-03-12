@@ -1,2 +1,6 @@
 .DS_store
 .ipynb_checkpoints
+__pycache__/
+tmp.dot
+tmp.png
+asr.sh
